@@ -6,6 +6,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <Button variant="contained">Is this a f***ing button?</Button>
+        <Button variant="text">I guess it is...</Button>
+        <Button variant="outlined">Although...</Button>
       </header>
     </div>
   );
